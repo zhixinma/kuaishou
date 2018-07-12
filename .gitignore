@@ -12,7 +12,9 @@ preliminary/
 final/model/
 final/log/
 final/res/
-  
+*model/
+*log/
+*res/
 build/
 develop-eggs/
 dist/
