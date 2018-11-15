@@ -4,4 +4,3 @@
 
 评测指标：[AUC](https://www.medcalc.org/manual/roc-curves.php)
 
-模型：Neural Network
