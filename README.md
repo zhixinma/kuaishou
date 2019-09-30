@@ -4,5 +4,5 @@
 
 Eval Metric: [AUC](https://www.medcalc.org/manual/roc-curves.php)
 
-NCF & fanual feature
+NCF & manual feature
 
